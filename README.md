@@ -1,4 +1,4 @@
-# Front-End Web Development Bootcamp programı
+# Front-End Web Development Bootcamp 
 
 ### Eğitmen: Mehmet Yurtar
 
